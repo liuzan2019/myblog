@@ -22,3 +22,7 @@ action 行为/动作
 
 用户点击
 
+
+
+Primary Key
+
