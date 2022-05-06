@@ -30,7 +30,7 @@ N为自然数
 
 ## 查询
 
-查询数据时，Click House不会移除null字节
+查询数据时，ClickHouse不会移除null字节
 
 如果使用where条件，我们应该加上null字节去匹配FixedString字段值
 
