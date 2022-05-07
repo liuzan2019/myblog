@@ -10,7 +10,7 @@ LowCardinality是改变数据存储和数据处理规则的上层建筑。
 
 ## 语法：
 
-```tex
+```sql
 LowCardinality(data_type)
 
 data_type 可以是String/FixedString/Date/DateTime/除小数之外的数字
